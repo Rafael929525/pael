@@ -33,6 +33,9 @@
 
 ---
 
+## Deploy
+[Deploy]https://heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started/tree/main
+
 ## Information
 ## bahasa Indonesia
 > Ramdani Botz V16 adalah bot yang di ciptakan oleh Ramdani Official.
